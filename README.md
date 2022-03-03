@@ -1,2 +1,9 @@
 # -
 主要用于求解最优近似集
+random_forest用来利用random forest来补全数据，vote数据集被补全的数据放在result_data
+new_result_data存放优化算法处理后的结果，和最终结果
+mian_function用来存放主函数
+function_set文件编写了一些基本的粗糙集函数
+optim文件编写了一些优化算法，是项目的核心函数
+有需要咨询作者的欢迎发邮件给我
+752957412@qq.com
